@@ -1,4 +1,4 @@
-//ShadowCodder is the owrner of this game.
+//ShadowCodder is the owrner of this game. You can use this code but you have to give me credit for this.
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
