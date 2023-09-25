@@ -7,13 +7,13 @@
 #define PAPER 2
 #define SCISSORS 3
 int main(){
-
+//Intro
     printf("\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\tWelcome to Rock Paper Scissor Game!\n\n");
     printf("\t\t\t\t\t\t\t\t\tHi there, I am Microbot! Do you wanna play Rock Paper Scissor Game with me\? Let\'s see, who becomes winner!\n\n");
     printf("If you're interested to play a match. Then, \"Press 1\"\n\n");
     printf("Otherwise! If you're not interested to play a match. Then,\"Press 2\"\n\n");
     printf("Selection:\t");
-
+//Ask for rules
 int user_input1;
     scanf("%d",&user_input1);
 switch(user_input1){
